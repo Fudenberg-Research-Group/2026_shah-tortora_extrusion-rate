@@ -1,4 +1,4 @@
-# Simulating the role of extrusion rate on higher-order chromatin folding 
+# Simulating the role of extrusion rate in higher-order chromatin folding 
 
 ![Alt Text](data/model.png)
 
@@ -9,7 +9,7 @@
 
 
 ### Description
-This GitHub repository contains a minimal tutorial showcasing simulations of chromatin loop extrusion with tunable rate, lifetime and loaded density, along with their interplay with experimentally-calibrated polymer kinetics and affinity-based compartment formation.
+This GitHub repository contains a minimal tutorial showcasing simulations of chromatin loop extrusion with tunable rate, lifetime and loaded density, along with their interplay with experimentally-calibrated chromosome kinetics and affinity-based compartment formation.
 
 Preprint available here: <https://doi.org/10.1101/2025.08.14.667581>
 

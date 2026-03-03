@@ -1,6 +1,7 @@
 {
     "trajectory_length": 50,
     "dummy_steps": 50,
-    "LEF_separation": 74,
-    "LEF_lifetime": 1320
+    "LEF_separation": 185,
+    "LEF_lifetime": 1320,
+	"kb_per_site": 2.5
 }
