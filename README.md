@@ -1,6 +1,6 @@
 # Simulating the role of extrusion rate on higher-order chromatin folding 
 
-![Alt Text](model.png)
+![Alt Text](data/model.png)
 
 **Illustration**: The model is parametrized using *in vivo* measurements of cohesin abundance and kinetics in mESCs. It combines lattice-based Monte-Carlo simulations of extrusion kinetics with large-scale molecular dynamics simulations to quantitatively map the effects of single-cohesin properties on larger-scale organization processes, such as compartment formation and chromosome-wide 'vermicelli' compaction. 
 <!--
