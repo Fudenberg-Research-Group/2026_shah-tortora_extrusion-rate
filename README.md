@@ -17,7 +17,7 @@ Preprint available here: <https://doi.org/10.1101/2025.08.14.667581>
 ### Requirements
 - *polychrom-hoomd*: A toolkit for polymer simulations. (https://github.com/open2c/polychrom-hoomd)
 - *HooMD-blue*: A library for GPU-accelerated molecular simulations. (https://hoomd-blue.readthedocs.io/en/v6.1.1/)
-- *polykit*: A suit of utilities for polymer simulation design and analysis (https://github.com/open2c/polykit)
+- *polykit*: A suite of utilities for polymer simulation design and analysis (https://github.com/open2c/polykit)
 
 
 ### Workflow
