@@ -7,7 +7,7 @@ def compute_LEF_pos(extrusion_engine, n_tot,
                     **kwargs):
     """LEF dynamics computation"""
 
-    LEF_num = n_tot // (LEF_separation / kb_per_site)
+    LEF_num = int(n_tot // (LEF_separation / kb_per_site))
     
     birth_array = np.zeros(n_tot, dtype=np.double) + 0.1
     pause_array = np.zeros(n_tot, dtype=np.double)
