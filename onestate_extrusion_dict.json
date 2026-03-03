@@ -2,7 +2,5 @@
     "trajectory_length": 50,
     "dummy_steps": 50,
     "LEF_separation": 74,
-    "LEF_lifetime": 1320,
-    "LEF_stall": 0,
-    "TAD_size": 100
+    "LEF_lifetime": 1320
 }
