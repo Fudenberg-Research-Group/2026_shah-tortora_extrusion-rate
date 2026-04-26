@@ -23,3 +23,5 @@ Manuscript available here: <https://doi.org/10.1016/j.molcel.2026.03.037>
 ### Workflow
   
 See the `tutorial_velocity.ipynb` Jupyter notebook.  
+
+[!Watch the video](https://rawcdn.githack.com/Fudenberg-Research-Group/2026_shah-tortora_extrusion-rate/34a4bcdd42535a3dd791081ee56dd83025b366f9/media/Shah-Tortora_WT-dNIPBL-dWAPL-dPDS5.mp4)
