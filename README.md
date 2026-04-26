@@ -27,4 +27,5 @@ See the `tutorial_velocity.ipynb` Jupyter notebook.
 
 <video src="https://rawcdn.githack.com/Fudenberg-Research-Group/2026_shah-tortora_extrusion-rate/34a4bcdd42535a3dd791081ee56dd83025b366f9/media/Shah-Tortora_WT-dNIPBL-dWAPL-dPDS5.mp4" controls="controls" style="max-width: 100%;">
 </video>
+
 [!Watch the video](https://rawcdn.githack.com/Fudenberg-Research-Group/2026_shah-tortora_extrusion-rate/34a4bcdd42535a3dd791081ee56dd83025b366f9/media/Shah-Tortora_WT-dNIPBL-dWAPL-dPDS5.mp4)
