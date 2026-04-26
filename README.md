@@ -11,7 +11,7 @@
 ### Description
 This GitHub repository contains a minimal tutorial showcasing simulations of chromatin loop extrusion with tunable rate, lifetime and loaded density, along with their interplay with experimentally-calibrated chromosome kinetics and affinity-based compartment formation.
 
-Preprint available here: <https://doi.org/10.1101/2025.08.14.667581>
+Manuscript available here: <https://doi.org/10.1016/j.molcel.2026.03.037>
 
   
 ### Requirements
